@@ -1,4 +1,4 @@
-name = "asha778"
+name = "bdamp"
 compatibility_date = "2024-11-01"
 
 main = "_worker.js"   # 重点：告诉 Pages 这是纯 Worker 项目
