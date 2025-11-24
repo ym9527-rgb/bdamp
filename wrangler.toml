@@ -1,3 +1,9 @@
 name = "asha778"
-main = "_worker.js"
 compatibility_date = "2024-11-01"
+account_id = "BGWPTRBwwMnp0VPzdggMeTAiG4EkOgvW9SuIUEXQ"
+
+# Pages 专用
+type = "javascript"
+
+[vars]
+DEFAULT_ORIGIN = "https://asha778.com"
